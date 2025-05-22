@@ -110,7 +110,7 @@ section ul li {
 }
 
 footer {
-    background-color: #8848db; 
+    background-color: #5f513847; 
     color: #ffffff; 
     text-align: center; 
     padding: 20px 0; 
@@ -127,7 +127,7 @@ footer a:hover {
 }
 
     #contact ul {
-        list-style: none; /* Убирает точки слева от пунктов */
+        list-style: none;
         padding: 0; /* Убирает стандартный отступ слева у всего списка */
         margin: 20px auto; /* Центрируем список и добавляем отступ сверху/снизу. auto по бокам центрирует, если ul ограничен по ширине */
         text-align: center; /* Центрирует содержимое списка (пункты li) */
