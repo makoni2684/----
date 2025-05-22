@@ -3,7 +3,7 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-color: #e06c00;
+    background-color: #ff7b00;
     color: #ffffff;
 }
 
@@ -15,7 +15,7 @@ main {
 
 
 header {
-    background-color: #a14f1f; 
+    background-color: #80350a; 
     color: #ffffff;
     padding: 20px 0; 
     text-align: center;
